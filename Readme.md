@@ -1,6 +1,6 @@
 
 
-## Project Name
+## Authentication using bcrypt and jwt
 
 This project provides an API for user registration, login, and authentication. It can be tested using Postman.
 
